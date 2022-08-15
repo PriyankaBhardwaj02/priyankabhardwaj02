@@ -9,23 +9,10 @@
 
 - 🌱 I’m currently learning **Salesforce, AI & Machine learning, Embedded system**
 
-- 🤝 I’m looking for help with [Dorebot- A step towards humanity](https://github.com/PriyankaBhardwaj02/PD150_The-backbenchers-1)
-
-- 👨‍💻 All of my projects are available at [priyankabhardwaj.xyz](priyankabhardwaj.xyz)
-
-- 📝 I regularly write articles on [priyankabhardwaj.xyz/blogs](priyankabhardwaj.xyz/blogs)
-
 - 💬 Ask me about **Latest technologies, Robots, Space**
 
 - 📫 How to reach me **priyankabhardwaj065@gmail.com**
 
-- 📄 Know about my experiences [priyankabhardwaj.xyz/resume](priyankabhardwaj.xyz/resume)
-
-- ⚡ Fun fact **I still**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
