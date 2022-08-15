@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankabhardwaj02" alt="priyankabhardwaj02" /></a> </p>
 
-- 🔭 I’m currently working on [Flora World Garden Community](https://github.com/PriyankaBhardwaj02/flora_world)
-
 - 🌱 I’m currently learning **Salesforce, AI & Machine learning, Embedded system**
 
 - 💬 Ask me about **Latest technologies, Robots, Space**
